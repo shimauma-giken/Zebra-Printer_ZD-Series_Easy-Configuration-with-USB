@@ -95,18 +95,11 @@ UPDATE: 2026/10/10
 ---
 ### ◆ ラベルタイプの確認
 
-1. 利用するラベルが下記いずれのタイプか確認する。
-   <br/></br>
-   - **連続紙・レシート**
-     <img height="150" src="picture/media_continous.png">
-     </br></br>
-
-   - **ギャップ・ノッチ**
-     <img height="400" src="picture/media_gap-notch.png">
-     </br></br>
-
-   - **黒マーク**
-     <img src="picture/media_black-mark.png">
+|Media Type| Image|
+|-|-|
+|**連続紙・レシート**|<img height="150" src="picture/media_continous.png">|
+|**ギャップ・ノッチ**|<img height="400" src="picture/media_gap-notch.png">|
+|**黒マーク**|<img src="picture/media_black-mark.png">|
 
    </br>
    </br>
