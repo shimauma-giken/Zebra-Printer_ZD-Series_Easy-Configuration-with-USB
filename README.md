@@ -546,9 +546,12 @@ ZDシリーズは実施不要。
 > **Q.** フィードバックで取得する内容は変更できるか。
 
 **A.** feedbackフォルダに保存されるファイル名とファイル内容は任意で変更可能です。詳細は["ZPL2プログラミングガイド"](https://docs.zebra.com/us/en/printers/software/zpl-pg/c-zpl-mirror-mirror/c-zpl-mirror-configuration/c-zpl-mirror-example-feedbackget-file.html)を参照ください。
+<br/>
 
 > **Q.** 不足の事態が発生したため、プリンタの設定を確認したい。
 
 **A.** [Printer Setup Utility for Windows にてAllcvを取得](https://github.com/shimauma-giken/Zebra-Printer-How-to-Retrieve-Entire-Printer-Report--Allcv-)ください。
 
+---
+End
 
