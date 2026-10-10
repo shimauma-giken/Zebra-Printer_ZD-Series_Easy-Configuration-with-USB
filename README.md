@@ -68,7 +68,7 @@ UPDATE: 2026/10/10
 ### ◆ 設定ファイルの取得
 **Windows パソコンの作業。**
 
-1. 設定用ファイルを[ダウンロード](https://github.com/shimauma-giken/Zebra-Printer-ZT-Series-Easy-Pinter-Configurator-with-USB)する。
+1. 設定用ファイルを[ダウンロード](https://github.com/shimauma-giken/Zebra-Printer-USB-Mirror-Files)する。
    [ <>Code ] > [ Download ZIP ]
    <br/>
    
